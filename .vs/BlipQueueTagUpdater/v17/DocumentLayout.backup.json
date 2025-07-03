@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\infrastructure\\blipclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\infrastructure\\blipclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\infrastructure\\blipoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\infrastructure\\blipoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\infrastructure\\iblipclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\infrastructure\\iblipclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\models\\attendancequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\models\\attendancequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\models\\blipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\models\\blipresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|r:\\skeps\\atualiza\u00E7\u00E3p\\blipqueuetagupdater\\blipqueuetagupdater\\services\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07738324-022F-4938-915C-1FA39829F11E}|BlipQueueTagUpdater\\BlipQueueTagUpdater.csproj|solutionrelative:blipqueuetagupdater\\services\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 385,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\appsettings.json",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\appsettings.json",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\appsettings.json",
+              "RelativeToolTip": "BlipQueueTagUpdater\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T01:18:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlipClient.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Infrastructure\\BlipClient.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Infrastructure\\BlipClient.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Infrastructure\\BlipClient.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Infrastructure\\BlipClient.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:55.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Program.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Program.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Program.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlipOptions.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Infrastructure\\BlipOptions.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Infrastructure\\BlipOptions.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Infrastructure\\BlipOptions.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Infrastructure\\BlipOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:48.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBlipClient.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Infrastructure\\IBlipClient.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Infrastructure\\IBlipClient.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Infrastructure\\IBlipClient.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Infrastructure\\IBlipClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:47.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceQueue.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Models\\AttendanceQueue.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Models\\AttendanceQueue.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Models\\AttendanceQueue.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Models\\AttendanceQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlipResponse.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Models\\BlipResponse.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Models\\BlipResponse.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Models\\BlipResponse.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Models\\BlipResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Services\\QueueService.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Services\\QueueService.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Services\\QueueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:43.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Services\\IQueueService.cs",
+              "RelativeDocumentMoniker": "BlipQueueTagUpdater\\Services\\IQueueService.cs",
+              "ToolTip": "R:\\Skeps\\Atualiza\u00E7\u00E3p\\BlipQueueTagUpdater\\BlipQueueTagUpdater\\Services\\IQueueService.cs",
+              "RelativeToolTip": "BlipQueueTagUpdater\\Services\\IQueueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:15:42.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
