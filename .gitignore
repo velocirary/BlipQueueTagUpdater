@@ -1,0 +1,100 @@
+
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Rider files
+.idea/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/packages/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+
+# Config files with sensitive data
+appsettings.json
+appsettings.*.json
+
+# Rider project files
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.pidb
+
+# DotCover
+*.dotCover
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Others
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.vsmdi
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.cachefile
+*.dbmdl
+*.bak
+*.backup
+*.log
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Dotfuscator
+*.Dotfuscator*
+
+# Visual Studio Code workspace files
+*.code-workspace
