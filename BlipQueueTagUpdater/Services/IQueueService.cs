@@ -2,5 +2,6 @@
 
 public interface IQueueService
 {
-    Task ExecuteAsync();
+    Task ExecuteAllAsync();
+    Task ExecuteAllowedOnlyAsync(string jsonPath = "queues.json");
 }

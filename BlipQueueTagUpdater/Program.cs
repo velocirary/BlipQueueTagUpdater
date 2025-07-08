@@ -13,4 +13,9 @@ var host = Host.CreateDefaultBuilder(args)
     .Build();
 
 var svc = host.Services.GetRequiredService<IQueueService>();
-await svc.ExecuteAsync();
+
+// Executa a atualização apenas nas filas que estão listadas no arquivo queues.json.
+await svc.ExecuteAllowedOnlyAsync();
+
+// Executa a atualização em todas as filas retornadas pela API da Blip, sem filtro.
+await svc.ExecuteAllAsync();
