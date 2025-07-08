@@ -98,3 +98,10 @@ mono_crash.*
 
 # Visual Studio Code workspace files
 *.code-workspace
+*.vsidx
+*.json
+*.pdb
+*.dll
+*.exe
+*.cache
+/.vs
